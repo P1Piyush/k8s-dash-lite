@@ -1,0 +1,11 @@
+{
+  "name": "k8s-dash-lite",
+  "version": "1.0.0",
+  "description": "Beautiful terminal dashboard for monitoring Kubernetes clusters.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "P1Piyush",
+  "license": "MIT"
+}
